@@ -11,9 +11,6 @@ I also added some graph to show the comparison of all of the states, as well as 
 
 I decided to write this program to go through the data because I will be  moving to the US in the next few years and I wanted to see what would be the best states to live in persuing a job in software development.
 
-
-{Provide a link to your YouTube demonstration.  It should be a 4-5 minute demo of the data set, the questions and answers, the code running and a walkthrough of the code.}
-
 [Software Demo Video](https://youtu.be/zeA04cx_g-8)
 
 # Data Analysis Results
