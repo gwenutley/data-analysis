@@ -14,7 +14,7 @@ I decided to write this program to go through the data because I will be  moving
 
 {Provide a link to your YouTube demonstration.  It should be a 4-5 minute demo of the data set, the questions and answers, the code running and a walkthrough of the code.}
 
-[Software Demo Video](http://youtube.link.goes.here)
+[Software Demo Video](https://youtu.be/zeA04cx_g-8)
 
 # Data Analysis Results
 
@@ -53,7 +53,6 @@ https://numpy.org/devdocs/user/absolute_beginners.html
 
 # Future Work
 
-{Make a list of things that you need to fix, improve, and add in the future.}
 * One improvement I could add in the future is even more specific data to each city in the dataset instead of only each state, and make the data even more accurate by adding state income taxes, or availability of software jobs, etc.
 * Another improvement would be to have checks that go through the whole dataset checking for duplicates, outliers, missing, or suspicious values to make sure the results are as accurate as they can be.
 * I could add more charts or graphs that show more patterns within the dataset, I think a scatter chart would be good to show trends.
